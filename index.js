@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot feito por Dsem","Jogando Habbo Hotel"];
+const statusMessages = ["Feliz aniversário, Wispy!"];
 
 
 let currentIndex = 0;
