@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Feliz aniversário, Wispy!"];
+const statusMessages = ["Criado por Dsem"];
 
 
 let currentIndex = 0;
